@@ -65,6 +65,8 @@ header{
   color:lightgray;
   padding:20px;
   margin-left:15px;
+  border: 2px solid teal;
+  margin-right:10px;
   
 }
 span{
